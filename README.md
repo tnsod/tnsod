@@ -1,6 +1,8 @@
 ## Hi there 👋
 
-<img width="300" height="300" alt="KissGIF" src="https://github.com/user-attachments/assets/6b27d6e7-e284-4261-bc29-ce1e5221c8c9" />
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/farms/tnsod"/>
+</a>
 
 <div align="center">
 
