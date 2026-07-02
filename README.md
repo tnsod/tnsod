@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**tnsod/tnsod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width="300" height="300" alt="KissGIF" src="https://github.com/user-attachments/assets/6b27d6e7-e284-4261-bc29-ce1e5221c8c9" />
 
-Here are some ideas to get you started:
+<div align="center">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://solved.ac/tnsod">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tnsod" />
+</a>
+<a href="https://codeforces.com/profile/tnsod">
+  <img src="https://cf.leed.at?id=tnsod" />
+</a>
+
+</div>
